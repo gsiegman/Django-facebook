@@ -1,4 +1,4 @@
-from django.contrib.auth import models, backends
+from django.contrib.auth import backends
 from user import models as models_user
 from django.db.models.query_utils import Q
 
